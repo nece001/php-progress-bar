@@ -1,0 +1,20 @@
+{
+    "name": "nece001/php-progress-bar",
+    "description": "php进度条",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nece001\\PhpProgressBar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nece001",
+            "email": "nece001@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    }
+}
